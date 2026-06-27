@@ -43,7 +43,7 @@ Loaded from Google Fonts — requires internet connection to render correctly.
 
 ## Deploying
 
-Push to `main` on GitHub → auto-deploys to `baby-registry.nayeliperez.com`.
+Push to `main` on GitHub → auto-deploys to `baby-fund.nayeliperez.com`.
 
 ```bash
 git add -A
