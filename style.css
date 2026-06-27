@@ -73,6 +73,13 @@ body {
   text-align: center;
 }
 
+/* disable iOS auto-detected phone links */
+a[href^="tel"] {
+  text-decoration: none;
+  color: inherit;
+  pointer-events: none;
+}
+
 /* ─── Scallop border ─────────────────────────────────────────── */
 .scallop-border {
   position: sticky;
